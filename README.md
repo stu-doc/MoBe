@@ -14,5 +14,10 @@ Two distinct camera viewpoints were utilized at the Keyvanfar intersection: (a)t
 
 
 
+This repository includes a subset of the dataset, consisting of two clips from Viewpoint 1 and two clips from Viewpoint 2, each accompanied by their respective tag files (.txt).
+
+
+
+
 
 
